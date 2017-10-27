@@ -1,0 +1,61 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+a.navbar-brand{
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 30px;
+}
+ul.nav{
+  font-family: 'Arvo', courier, serif;
+}
+/*making the whole content of class jumbotron centered */
+.jumbotron{
+  text-align: center;
+}
+/* specifying Google Fonts in CSS */
+.jumbotron h1, h2{
+  font-family: 'Arvo', courier, serif;
+}
+.jumbotron p{
+  font-family: 'Poiret One', cursive;
+}
+
+/*
+.btn-lg{
+  font-size: 12px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+*/
+
+/*
+    font-family: 'Poiret One', cursive;
+    font-family: 'Sorts Mill Goudy', serif;
+    font-family: 'Cabin Sketch', cursive;
+    font-family: 'Special Elite', cursive;
+    font-family: 'Fredericka the Great', cursive;
+    font-family: 'Bungee Inline', cursive;
+    font-family: 'Codystar', cursive;
+    font-family: 'Caesar Dressing', cursive;
+    font-family: 'Miltonian', cursive;
+   */
+
